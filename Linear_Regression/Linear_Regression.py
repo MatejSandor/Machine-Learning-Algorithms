@@ -24,4 +24,5 @@ class LinearRegression:
             self.bias -= self.lr * db
 
     def predict(self, x):
-        pass
+        y_predicted = numpy.dot(x, self.weights) + self.bias
+        return y_predicted
