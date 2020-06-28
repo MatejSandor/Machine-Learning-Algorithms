@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-Implementation of Popular Machine Learning Algorithms
+Implementation of Popular Machine Learning Algorithms. These algorithms were implementing using only in-built Python modules and NumPy.
 
 ## Usage
 
